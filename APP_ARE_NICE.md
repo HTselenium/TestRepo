@@ -2,3 +2,5 @@
 # We like programming: 🥇 
 # We like coding: 🥈 
 # We like coding: 🥈
+# We like coding: 🥈
+# We like coding: 🥈
